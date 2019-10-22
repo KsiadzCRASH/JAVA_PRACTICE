@@ -1,0 +1,4 @@
+JMH S 19 com.ts.jmh.Volatile S 64 com.ts.jmh.generated.Volatile_readWriteStaticVolatileAtr_jmhTest S 26 readWriteStaticVolatileAtr S 3 All E A 1 1 1 E I 1 2 E E E E E I 1 1 I 1 1 E E E E E E E E 
+JMH S 19 com.ts.jmh.Volatile S 50 com.ts.jmh.generated.Volatile_readWriteAtr_jmhTest S 12 readWriteAtr S 3 All E A 1 1 1 E I 1 2 E E E E E I 1 1 I 1 1 E E E E E E E E 
+JMH S 19 com.ts.jmh.Volatile S 56 com.ts.jmh.generated.Volatile_readWriteStaticAtr_jmhTest S 18 readWriteStaticAtr S 3 All E A 1 1 1 E I 1 2 E E E E E I 1 1 I 1 1 E E E E E E E E 
+JMH S 19 com.ts.jmh.Volatile S 58 com.ts.jmh.generated.Volatile_readWriteVolatileAtr_jmhTest S 20 readWriteVolatileAtr S 3 All E A 1 1 1 E I 1 2 E E E E E I 1 1 I 1 1 E E E E E E E E 
